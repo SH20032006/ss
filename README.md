@@ -1,140 +1,71 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
-
-<h1 align="center">Hi 👋, I'm Shahan Iresh</h1>
- 
-<h3 align="center">IT Explorer | Passionate About Code, Data & Discovery</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahaniresh7&label=Profile%20views&color=0e75b6&style=flat" alt="shahaniresh7" />
-  <a href="https://github.com/shahaniresh7?tab=followers">
-    <img src="https://img.shields.io/github/followers/shahaniresh7?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
----
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpqYzBtb2J5c3l5d3gzb3NkMGNtem9lcXV5NG54c2Z4ZXhkN3l3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLDvaRonHeVdWtf4bW/giphy.gif" width="30"><b> About Me </b>
-
-<table align="center">
-  <tr>
-    <td width="60%" align="left">
-      
-- 🌱 **Currently Learning:** MERN Stack & Advanced Java
-- 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
-- 💬 **Expertise Areas:** Java, Web Development, Database Systems
-- 📫 **Reach me at:** shahaniresh7@gmail.com
-- 🎯 **Goal:** To become a proficient Full-Stack Developer
-- ⚡ **Fun fact:** I love solving complex problems and exploring new technologies
-
-    </td>
-    <td width="40%" align="center">
-      <img align="center" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
-
 <div align="center">
-
-## 📈 GitHub Analytics
-
-| <img src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&show_icons=true&theme=radical&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true" />
-
+  <h2>🔒 "In Cyber We Trust - Stay Secure, Stay Vigilant" 🔒</h2>
+  <p><em>Thanks for visiting my digital fortress! Remember: Security is everyone's responsibility! 🛡️</em></p>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Secured_by-Shahan_Iresh-green?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-blue?style=for-the-badge&labelColor=black" />
 </div>
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Tech Stack</b>
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FFFFFF?style=for-the-badge&logo=davinciresolve&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
----
-
-## 📈 GitHub Activity
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=1F6FEB&point=1F6FEB" width="100%"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&label=)](https://linkedin.com/in/shahan-iresh-374218374)
-[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30&label=)](https://www.facebook.com/share/1bprpgzynx/)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30&label=)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=30&label=)](https://x.com/shahaniresh)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&label=)](mailto:shahaniresh7@gmail.com)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30&label=)](https://github.com/shahaniresh7)
-
+  <h2>🛡️ "Code Securely, Defend Vigilantly" 🛡️</h2>
+  <p><em>Exploring the frontiers of cybersecurity and software development. Building secure digital solutions for tomorrow! 🔐</em></p>
+  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Developed_with-Passion_&_Code-red?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Future-Security_Analyst-green?style=for-the-badge&labelColor=000000" />
 </div>
 
----
-
-## 💰 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shahaniresh">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahaniresh" />
-  </a>
-</p>
-
----
-
 <div align="center">
+  <h2>💻 "Code | Secure | Innovate" 💻</h2>
+  <p><em>BSc Data Science Undergraduate | Cybersecurity Enthusiast | Full-Stack Developer in the making 🚀</em></p>
   
-  ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="100">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <br><br>
   
+  <img src="https://img.shields.io/badge/Degree-BSc_Data_Science-blue?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Skills-Web_Development,_Cybersecurity-green?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Goal-Software_Engineer-red?style=for-the-badge&labelColor=000000" />
 </div>
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=shahaniresh7&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<div align="center">
+  <h2>🚀 "From Code to Cybersecurity" 🚀</h2>
+  <p><em>Transforming ideas into secure digital solutions. Passionate about coding, data science, and protecting the digital world! 🔒</em></p>
+  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Currently_Learning-MERN_Stack,_Java-yellow?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Expertise-Web_Dev,_Databases-blue?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Aspiration-Full_Stack_Developer-green?style=for-the-badge&labelColor=000000" />
+</div>
+
+<div align="center">
+  <h2>🔐 "Securing the Digital Future" 🔐</h2>
+  <p><em>BSc Data Science Student | Cybersecurity Aspirant | Full-Stack Developer | Building tomorrow's secure digital landscape 🌐</em></p>
+  
+  <img src="https://media.giphy.com/media/j3h8IvQdgwNyo6x45d/giphy.gif" width="100">
+  
+  <br><br>
+  
+  <div>
+    <img src="https://img.shields.io/badge/🎓-BSc_Data_Science_Undergraduate-blue?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🔒-Cybersecurity_Enthusiast-green?style=for-the-badge&labelColor=000000" />
+  </div>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/💻-Full_Stack_Developer_ASPIRANT-red?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🚀-MERN_Stack_Learner-yellow?style=for-the-badge&labelColor=000000" />
+  </div>
+</div>
+
